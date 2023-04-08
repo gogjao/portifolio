@@ -16,7 +16,7 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["modelador", "Desenvolvedor", "Designer", "Freelancer","projetista","editor"],
+         strings:["modelador", "Desenvolvedor", "VIADAÇO", "Freelancer","projetista","editor"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
